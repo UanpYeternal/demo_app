@@ -38,6 +38,8 @@ end
 group :production do
 	gem 'pg', '0.15.1'
 end
+
+gem 'rb-readline'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
